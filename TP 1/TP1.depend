@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1620306210 source:c:\users\caio y eliseo\desktop\codeblocks utn\tp1\main.cpp
+	<iostream>
+	<math.h>
+
